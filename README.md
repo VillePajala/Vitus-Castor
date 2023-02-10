@@ -6,7 +6,7 @@ Everything related to music project Vitus Castor
 ### Hardware:
 * Acer Aspire Nitro VN7-592G 15,6" (i7, 16 Gt, 256 Gt SSD + 1 Tt 5400 RPM SATA) (Laptop)
 * Novation Launchpad X (Midi controller)
-* Aerodrums Air Drums (Midi controller)
+* Aerodrums Air Drums (Midi controller / Virtual Electronic Drum kit)
 * KRK Rokit 6 (Studio Montors)
 * AKG 271 MK2 (Studio Headphones)
 * M-Audio M-Track (Sound card)
