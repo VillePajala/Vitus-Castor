@@ -20,5 +20,7 @@ Everything related to music project Vitus Castor
 * Pigments 4 (Synth)
 * Massive (Synth)
 * Reaktor Prism (Synth)
+* Aerodrums Air Drums (Drums)
+* EZ Drummer 3 (Drums)
 
 
