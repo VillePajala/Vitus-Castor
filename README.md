@@ -17,10 +17,13 @@ Everything related to music project Vitus Castor
 
 ### Software:
 * Ableton Live 10 Suite (DAW)
-* Pigments 4 (Synth)
-* Massive (Synth)
-* Reaktor Prism (Synth)
-* Aerodrums Air Drums (Drums)
-* EZ Drummer 3 (Drums)
+* Synths:
+  * Pigments 4
+  * Massive
+  * Reaktor Prism
+  * Hybrid 3
+* Drums:
+  * Aerodrums Air Drums
+  * EZ Drummer 3
 
 
