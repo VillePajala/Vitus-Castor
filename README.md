@@ -20,10 +20,14 @@ Everything related to music project Vitus Castor
 * Synths:
   * Pigments 4
   * Massive
+  * Serum
   * Reaktor Prism
   * Hybrid 3
 * Drums:
   * Aerodrums Air Drums
   * EZ Drummer 3
+  * BreakRweaker Expanded
+* Selected effects:
+  * Stutter Edit 2
 
 
