@@ -29,8 +29,8 @@ Everything related to music project Vitus Castor
   * BreakRweaker Expanded
 * Selected effects:
   * Stutter Edit 2
-  * Göitch 2
+  * Glitch 2
   * Saturation knob
-  * 
+  * Valhalla vintageverb
 
 
