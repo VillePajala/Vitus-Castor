@@ -42,7 +42,6 @@ Everything related to music project Vitus Castor
   * Neutron 4 elements
   * Ozone 10 elements
   * Relay
-  * 
   * F6
   * OneKnob
   * Reel ADT
