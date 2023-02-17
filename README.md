@@ -32,5 +32,37 @@ Everything related to music project Vitus Castor
   * Glitch 2
   * Saturation knob
   * Valhalla vintageverb
+  * Voxengo SPAN
+  * CLA-2A
+  * CLA-3A
+  * CLA 76
+  * CA-2A
+  * Stratus
+  * Insight 2
+  * Neutron 4 elements
+  * Ozone 10 elements
+  * Relay
+  * 
+  * F6
+  * OneKnob
+  * Reel ADT
+  * SuperTap 2
+  * Baervaag
+  * Melody Sauce 2
+  * KickBox
+  * Limiter6
+  * MSW1
+  * Ozone imager
+  * Percolate
+  * RED 2 EQ
+  * RED 3 Compressor
+  * RX 6
+  * Camel Crusher
+  * DreamScape
+  * HalfTime
+  * Nebula
+  * Gain Reduction
+  * Brauer Motion
+  * Sibilance
 
 
