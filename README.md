@@ -28,6 +28,7 @@ Everything related to music project Vitus Castor
   * EZ Drummer 3
   * BreakRweaker Expanded
 * Selected effects:
+  * Guitar Rig 6
   * Stutter Edit 2
   * Glitch 2
   * Saturation knob
