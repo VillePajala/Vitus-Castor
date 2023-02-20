@@ -21,21 +21,35 @@ Everything related to music project Vitus Castor
   * Pigments 4
   * Massive
   * Serum
+  * Monark
+  * Retro Machines Mk2
   * Reaktor Prism
   * Hybrid 3
 * Drums:
   * Aerodrums Air Drums
   * EZ Drummer 3
-  * BreakRweaker Expanded
+  * Drumlab
+  * BreakTweaker Expanded
+* Instruments:
+  * Souls sessions
+  * Guitar Rig 6
+  * The gentleman
+  * Scarbee mark 1
+  * Scarbee Rickenbacken bass
+  * Ethereal earth
+  * Vintage organs
+  * West africa
 * Selected effects:
-  * Komplete 14 select
   * Ozone 10 standard
   * Neutron 4 standard
-  * Guitar Rig 6
   * Stutter Edit 2
   * Glitch 2
-  * Saturation knob
   * Valhalla vintageverb
+  * Saturation knob
+  * Replika
+  * Solid bus comp
+  * Raum
+  * Mod pack - Phasis
   * Voxengo SPAN
   * CLA-2A
   * CLA-3A
@@ -43,8 +57,6 @@ Everything related to music project Vitus Castor
   * CA-2A
   * Stratus
   * Insight 2
-  * Neutron 4 elements
-  * Ozone 10 elements
   * Relay
   * F6
   * OneKnob
