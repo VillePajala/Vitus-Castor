@@ -46,6 +46,7 @@ Everything related to music project Vitus Castor
   * Glitch 2
   * Valhalla vintageverb
   * NeoVerb
+  * VolumeShaper 7
   * Saturation knob
   * Replika
   * Solid bus comp
